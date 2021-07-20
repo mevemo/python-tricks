@@ -1,3 +1,3 @@
 # excersise-python
-Mein Projekte in Phyton als übung
-Für die Umschulung als Fachinformatiker Awendungsentwicklung übungen für mich selbst
+Mein Projekte in Phyton 
+Für die Umschulung als Fachinformatiker Awendungsentwicklung (Übungen)
