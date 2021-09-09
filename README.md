@@ -1,3 +1,3 @@
-# excercise-python
+# exercise-python
 Meine Projekte in Python 
 Für die Umschulung als Fachinformatiker Awendungsentwicklung (Übungen)
