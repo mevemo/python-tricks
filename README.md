@@ -1,3 +1,3 @@
 # exercise-python
-Meine Projekte in Python 
-Für die Umschulung als Fachinformatiker Awendungsentwicklung (Übungen)
+some projects in python
+during my scholarship as apprentice for:  "Fachinformatiker Awendungsentwicklung" (practice)
