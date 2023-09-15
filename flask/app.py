@@ -12,7 +12,7 @@ login_manager.init_app(app)
 login_manager.login_view = 'login'
 
 # Für den Prototyp verwenden wir ein hardgecodetes 'User'-Objekt
-users = {'mevemo': {'password': 'assword123', 'active': True}}
+users = {'mevemo': {'password': 'a$$word234', 'active': True}}
 
 class User(UserMixin):
     def __init__(self, id):
