@@ -1,19 +1,20 @@
 # Python Tricks
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-A brief description of what this project does and who it's for.
+Lets try to collect neat python tips and tricks.
 
 ## Installation 
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/username/repository.git
+git clone https://github.com/mevemo/python-tricks.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd repository
+cd python-tricks
 ```
 
 Install the requirements:
@@ -38,7 +39,9 @@ pytest
 
 ## Python Formatting Tricks
 
-Here you can add some Python formatting tricks that you find useful.
+```bash
+black [name_of_script].py
+```
 
 ## Contributing
 
